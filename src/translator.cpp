@@ -6,6 +6,7 @@ int main()
     {
         std::cout << "This is a translator, but it does nothing for now..." << std::endl;
         std::cin.ignore();
+        std::cout << "test";
     }
 
     return 0;
